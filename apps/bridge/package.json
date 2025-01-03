@@ -18,7 +18,7 @@
     "@pancakeswap/utils": "workspace:*",
     "@pancakeswap/wagmi": "workspace:*",
     "@vanilla-extract/next-plugin": "^2.1.1",
-    "next": "13.3.4",
+    "next": "14.2.21",
     "next-axiom": "^0.16.0",
     "next-themes": "^0.2.0",
     "react": "^18.2.0",
